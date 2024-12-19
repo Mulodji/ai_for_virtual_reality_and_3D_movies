@@ -135,7 +135,7 @@ def main():
 
     # Video Mosaic
     video_files = ["video1.mp4", "video2.mp4", "video3.mp4", "video4.mp4"]
-    thumb_files = ["thumb1.jpg", "thumb2.jpg", "thumb3.jpg", "thumb4.jpg"]
+    thumb_files = ["thumb1.png", "thumb2.png", "thumb3.png", "thumb4.png"]
 
     #Carousel State
     if 'current_video_index' not in st.session_state:
